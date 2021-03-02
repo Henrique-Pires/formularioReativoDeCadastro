@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "name": "Henrique ",
+      "email": "henriqueromaria100@gmail.com",
+      "cep": "38400-474 ",
+      "numero": "2451 ",
+      "complemento": "casa 4 ",
+      "rua": "Rua Indianópolis ",
+      "bairro": "henriquero",
+      "cidade": "Uberlândia ",
+      "estado": "MG ",
+      "id": 1
+    }
+  ]
+}
